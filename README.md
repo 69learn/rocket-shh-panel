@@ -59,7 +59,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/69learn/rocket-shh-panel/maste
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/69learn/rocket-shh-panel/master/block-ir-ip.sh --ipv4)
 ```
+# نصب وردپرس
 
+bash <(curl -Ls https://raw.githubusercontent.com/69learn/rocket-shh-panel/master/install-wp.sh --ipv4)
 # کانال تلگرام
 
 https://t.me/sixtininelearn
