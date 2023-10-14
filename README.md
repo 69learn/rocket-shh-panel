@@ -62,8 +62,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mahmoud-ap/rocket-ssh/master/b
 
 # کانال تلگرام
 
-https://t.me/rocket_ssh
-
+https://t.me/sixtininelearn
 # محیط نرم افزار
 
 ![](images/1.png)
