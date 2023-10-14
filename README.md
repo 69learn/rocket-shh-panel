@@ -1,6 +1,6 @@
 <p align="center">
 <picture>
-<img width="160" height="160"  alt="XPanel" src="https://raw.githubusercontent.com/69learn/rocket-ssh-panel/master/images/logo.png">
+<img width="160" height="160"  alt="XPanel" src="https://github.com/69learn/rocket-shh-panel/blob/main/images/logo.png">
 </picture>
   </p> 
 <p align="center">
